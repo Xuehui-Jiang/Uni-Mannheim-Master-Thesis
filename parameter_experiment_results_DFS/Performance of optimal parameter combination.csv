@@ -1,0 +1,2 @@
+Alpha,Beta,Max depth,Node number,Edge number,Density,Coverage(train),Coverage(complete),Avg. degree,Runtime
+0.1,0.009,2.0,1658.0,13242.0,0.00481999456922527,1.0,0.9204545454545454,15.973462002412544,692.5351738929749

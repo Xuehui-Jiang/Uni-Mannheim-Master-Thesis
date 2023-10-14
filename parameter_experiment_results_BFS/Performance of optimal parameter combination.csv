@@ -1,0 +1,2 @@
+Alpha,Beta,Max hops,Node number,Edge number,Density,Coverage(train),Coverage(complete),Avg. degree,Runtime
+0.186,0.006,3.0,1566.0,12455.0,0.005082034772461125,1.0,0.9261363636363636,15.906768837803321,285.2854778766632

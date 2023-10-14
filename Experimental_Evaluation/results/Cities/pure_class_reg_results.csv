@@ -1,0 +1,35 @@
+,Embedding Mode,Dimensions,Classifier/Regressor,Metric,Score
+0,cbow,50,Naive Bayes,Accuracy,0.7871
+1,cbow,50,C4.5,Accuracy,0.7355
+2,cbow,50,KNN (k=3),Accuracy,0.7921
+3,cbow,50,SVM,Accuracy,0.845
+4,cbow,50,Linear Regression,RMSE,14.8891
+5,cbow,50,KNN (k=3) Regressor,RMSE,15.2594
+6,cbow,50,M5Rules,RMSE,24.9489
+11,cbow,100,Linear Regression,RMSE,20.1378
+12,cbow,100,KNN (k=3) Regressor,RMSE,15.9594
+13,cbow,100,M5Rules,RMSE,22.4136
+18,cbow,200,Linear Regression,RMSE,132.8662
+19,cbow,200,KNN (k=3) Regressor,RMSE,15.0399
+20,cbow,200,M5Rules,RMSE,17.8374
+21,sg,50,Naive Bayes,Accuracy,0.5867
+22,sg,50,C4.5,Accuracy,0.4864
+23,sg,50,KNN (k=3),Accuracy,0.591
+24,sg,50,SVM,Accuracy,0.6767
+25,sg,50,Linear Regression,RMSE,21.0585
+26,sg,50,KNN (k=3) Regressor,RMSE,20.8974
+27,sg,50,M5Rules,RMSE,30.2546
+28,sg,100,Naive Bayes,Accuracy,0.6055
+29,sg,100,C4.5,Accuracy,0.4807
+30,sg,100,KNN (k=3),Accuracy,0.6724
+31,sg,100,SVM,Accuracy,0.7105
+32,sg,100,Linear Regression,RMSE,27.1569
+33,sg,100,KNN (k=3) Regressor,RMSE,20.1805
+34,sg,100,M5Rules,RMSE,29.0747
+35,sg,200,Naive Bayes,Accuracy,0.5912
+36,sg,200,C4.5,Accuracy,0.4655
+37,sg,200,KNN (k=3),Accuracy,0.6536
+38,sg,200,SVM,Accuracy,0.73
+39,sg,200,Linear Regression,RMSE,196.9834
+40,sg,200,KNN (k=3) Regressor,RMSE,19.8481
+41,sg,200,M5Rules,RMSE,28.1587

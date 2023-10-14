@@ -1,0 +1,7 @@
+Embedding Mode,Dimensions,Averge Score
+cbow,50,0.18822381
+cbow,100,0.174190476
+cbow,200,0.158138095
+sg,50,0.304766667
+sg,100,0.322804762
+sg,200,0.3173
